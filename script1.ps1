@@ -19,4 +19,4 @@ $shrek = @"
 
 "@
 
-Write-Host $shrek -ForegroundColor Green
+Write-Host $shrek
